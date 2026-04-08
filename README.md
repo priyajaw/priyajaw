@@ -23,7 +23,7 @@
 
 - 🏅 **Microsoft Certified: Azure Developer Associate**
 
-- 📫 Reach me at: **priyajaw637@gmail.com** | 📞 6378357199
+- 📫 Reach me at: **priyajaw637@gmail.com** 
 
 ---
 
@@ -92,17 +92,7 @@
 - 🥉 **Data Structures & Algorithms**
 
 ---
-
-<h3 align="left">📊 GitHub Stats:</h3>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=priyajawariya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyajawariya&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
----
-
 <p align="center">
   💼 <strong>Available for Remote Jobs & Freelance Worldwide</strong> — Let's build something great together!<br/>
-  📧 priyajaw637@gmail.com · 📞 +91 6378357199
+  📧 priyajaw637@gmail.com ·
 </p>
