@@ -3,18 +3,18 @@
 </div>
 
 
-<h1 align="center">Hi 👋, I'm Mohamed Fathi Khalifa</h1>
-<h3 align="center">🚀 A Full-Stack Developer (.NET & Angular) from Giza, Egypt</h3>
+<h1 align="center">Hi 👋, I'm Priya Jawariyaa</h1>
+<h3 align="center">🚀 A Full-Stack Developer (.NET & Angular)</h3>
 
 
 
-- 🔭 I’m currently working on **I am a passionate Full-Stack Developer with a strong focus on Backend Development using .NET and building secure, scalable RESTful APIs. degree a Professional Diploma in Information Technology and Engineering (DITE) at the Faculty of Computer and Information Sciences, Ain Shams University**
+- 🔭 I’m currently working on **I am a passionate Full-Stack Developer with a strong focus on Backend Development using .NET and building secure, scalable RESTful APIs.**
 
-- 👨‍💻 All of my projects are available at [my-portfolio](https://my-portfolio-eight-lovat-94.vercel.app/)
+- 👨‍💻 All of my projects are available at 
 
 - 📫 How to reach me:  
   📧 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=mohamedfathimk9719@gmail.com" target="_blank">
-  mohamedfathimk9719@gmail.com
+  priyajaw637@gmail.com
   </a>
 
 <h3 align="left">Connect with me:</h3>
@@ -27,13 +27,7 @@
        width="40" />
 </a>
 
-<a href="www.linkedin.com/in/mohamed-fathi15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-fathi-khalifa" height="30" width="40" /></a>
-<a href="https://instagram.com/mohamed_fathi_98/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohamed_fathi_98/" height="30" width="40" /></a>
-<a href="https://twitter.com/mohamedmood9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohamedmood9" height="30" width="40" /></a>
-<a href="https://fb.com/mohmed.mood.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohmed.mood.1" height="30" width="40" /></a>
- <!-- 📱 <a href="https://wa.me/201024549719" target="_blank">
-  WhatsApp: +20 102 454 9719
-  </a> -->
+<a href="www.linkedin.com/in/priya-jawariya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priya-jawariya" height="30" width="40" /></a>
 
 
 </p>
